@@ -1,7 +1,7 @@
 Country,Sequence,Passengers,Infected,Pending,Date,Updated,Source,Additional sources
-Japan,1,206,3,,1/29,2/2,,
-Japan,2,210,2,,1/30,2/2,,
-Japan,3,149,,8,1/31,2/2,,
+Japan,1,206,4,,1/29,2/2,http://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20200202-%E4%B8%80%E8%B4%9F%E8%B4%A3%E6%8E%A5%E5%BE%85%E4%BB%8E%E6%AD%A6%E6%B1%89%E4%B9%98%E5%8C%85%E6%9C%BA%E5%9B%9E%E5%9B%BD%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80,
+Japan,2,210,2,,1/30,2/2,http://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20200202-%E4%B8%80%E8%B4%9F%E8%B4%A3%E6%8E%A5%E5%BE%85%E4%BB%8E%E6%AD%A6%E6%B1%89%E4%B9%98%E5%8C%85%E6%9C%BA%E5%9B%9E%E5%9B%BD%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80,
+Japan,3,149,2,8,1/31,2/2,http://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20200202-%E4%B8%80%E8%B4%9F%E8%B4%A3%E6%8E%A5%E5%BE%85%E4%BB%8E%E6%AD%A6%E6%B1%89%E4%B9%98%E5%8C%85%E6%9C%BA%E5%9B%9E%E5%9B%BD%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E8%87%AA%E6%9D%80,
 Korea,1,368,1,0,1/30,2/2,https://www.bloomberg.com/news/articles/2020-01-31/virus-rescue-flight-returns-to-korea-with-18-showing-high-fever,
 Canada,?,196,,,,2/1,https://www.scmp.com/news/world/united-states-canada/article/3048506/coronavirus-outbreak-canada-gets-chinas-nod,
 US,1,195,,0,1/29,2.2,https://www.nbcnews.com/news/us-news/no-illness-seen-evacuated-u-s-passengers-wuhan-cdc-says-n1125566,
