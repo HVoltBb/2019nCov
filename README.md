@@ -8,7 +8,7 @@ Three datasets are included here.
 
 These datasets can be found in the Data folder. There are additional planed evacuations in the near future. The infection status of these individuals will provide more information on the current status of the outbreak and the efficiency of the mitigation in place.
 
-Datesets #1 and #2 will be updated weekly when new information is available, and **updates and corrections from you are also welcome**. 
+Datesets #1 and #2 will be updated weekly when new information becomes available, and **updates and corrections from you are also welcome**. 
 
 You are also welcome to suggest other forms of data to aid the analysis.
 
