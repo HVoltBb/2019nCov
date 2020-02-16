@@ -1,5 +1,5 @@
-# 2019nCov
-Data analysis of 2019 novel coronavirus outbreak 
+# COVD-19
+Data analysis of 2019 novel coronavirus COVD-19 outbreak in Wuhan, China
 
 Three datasets are included here.
 1. The international exported cases based on Wu(2020) with updated dates when the patient left Wuhan. Cases that are due to human-to-human infection are exluded.
