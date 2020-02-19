@@ -18,4 +18,6 @@ The versions on figshare will be updated sporadically following the versions her
 You are also welcome to suggest other data sources to aid the analysis.
 
 This study is currently under review in an open access journal. To cite this study, please use:
-XX
+Evaluating new evidence in the early dynamics of the novel coronavirus COVID-19 outbreak in Wuhan, China with real time domestic traffic and potential asymptomatic transmissions
+Can Zhou
+medRxiv 2020.02.15.20023440; doi: https://doi.org/10.1101/2020.02.15.20023440
