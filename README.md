@@ -9,9 +9,9 @@ Three datasets are included here.
 These datasets can be found in the [Data](https://github.com/HVoltBb/2019nCov/blob/master/data/) subfolder. There are additional planed evacuations in the near future. The infection status of these individuals will provide more information on the current status of the outbreak and the efficiency of the mitigation in place.
 
 Datesets #1 and #2 will be updated when new information becomes available, and **updates and corrections from you are also welcome**. For those with a sensored connection, the datasets are also made available through figshare with links listed below:
-1. Exported cases: https://doi.org/10.6084/m9.figshare.11859198.v1
-2. Evacuee dataset: https://doi.org/10.6084/m9.figshare.11859207.v1
-3. Real time traffic: https://doi.org/10.6084/m9.figshare.11859210.v1
+1. [Exported cases](https://doi.org/10.6084/m9.figshare.11859198.v1)
+2. [Evacuee dataset](https://doi.org/10.6084/m9.figshare.11859207.v1)
+3. [Real time traffic](https://doi.org/10.6084/m9.figshare.11859210.v1)
 
 The versions on figshare will be updated sporadically following the versions here. For those who can view this text, you can forget about figshare and just use the files in the [Data](https://github.com/HVoltBb/2019nCov/blob/master/data/) subfolder. 
 
