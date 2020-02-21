@@ -10,7 +10,7 @@ These datasets can be found in the [Data](https://github.com/HVoltBb/2019nCov/bl
 
 Datesets #1 and #2 will be updated when new information becomes available.
 
-**This is a work in progress, updates and corrections from you are also welcome**. 
+**This is a work in progress as more and more info is flowing in, and the dynamics are changing as China implements more mitigation measures to fight the disease. Updates and corrections from you are welcome.** 
 
 For those with a sensored connection, the datasets are also made available through figshare with links listed below:
 1. [Exported cases](https://doi.org/10.6084/m9.figshare.11859198.v1)
@@ -20,6 +20,8 @@ For those with a sensored connection, the datasets are also made available throu
 The versions on figshare will be updated sporadically following the versions here. For those who can view this text, you can forget about figshare and just use the files in the [Data](https://github.com/HVoltBb/2019nCov/blob/master/data/) subfolder. 
 
 You are also welcome to suggest other data sources to aid the analysis.
+
+The code is available [here](https://github.com/HVoltBb/2019nCov/blob/master/src/).
 
 This study is currently under review in an open access journal, and a preprint is available here \[[Link](https://www.medrxiv.org/content/10.1101/2020.02.15.20023440v1)\]. To cite this study, please use:
 
