@@ -5,6 +5,7 @@ Data analysis of 2019 novel coronavirus COVD-19 outbreak in Wuhan, China
 For those who don't have the time to read through the entire paper and figure out what is going on by themselves, here is a shorter version of the logic.
 
 ![logic](https://hvoltbb.github.io/pics/logic.png)
+
 Wuhan is a huge city with tremendous traffic both domestically and internationally, and thus, difficult, if not impossible, to assess how many are infected there. What makes the problem more difficult is that the number of infected is __dynamical__, aka changing with time. In this case, the international traffic offers, in some sense, samples from this population. __These samples gives us snapshot views of the dynamics in Wuhan__ and can help us understand the dynamics of the process.  Note that the disease is also dynamic once exported. As a result, we need to exclude secondary infections, aka human-to-human transmissions from the index patient once exported. Hence, for this analysis, a recent travel history from Wuhan is required for those exported cases. Secondary cases are nevertheless valid cases, but they wouldn't contribute to the analysis in this study for the same reason we are not using the confirmed cases in Wuhan: it is highly likely that those are underestimates because of the difficulties mentioned above.  
 
 ## Data and code
