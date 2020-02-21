@@ -1,6 +1,6 @@
 library(deSolve)
 
-flow = read.csv('RealtimeTraffic.csv', as.is=TRUE)
+flow = read.csv('../data/RealtimeTraffic.csv', as.is=TRUE)
 wc=which(flow$direction==1)
 cw=which(flow$direction==0)
 fctr = (9*487310 + 40*810500 + 9*502013 + 40*717226)/sum(flow[,4]) # 138412.0099 individual
@@ -167,7 +167,7 @@ rhs_bs = function(t, states, params){
   })
 }
 
-JoWu = read.csv('CaseExp.csv', as.is = TRUE)
+JoWu = read.csv('../data/CaseExp.csv', as.is = TRUE)
 
 dec1 = as.Date('2019-12-01')
 
@@ -187,7 +187,7 @@ exportDateRel = exportDate - dec1
 xd = table(exportDateRel)
 days = as.numeric(names(xd))
 
-evac = read.csv(file = 'Evacuee.csv')
+evac = read.csv(file = '../data/Evacuee.csv')
 indx = which(!is.na(evac$Infected))
 dates = as.Date(paste0(evac$Date, '/2020'), format = '%m/%d/%Y')
 datesRel = as.numeric(dates - dec1)
