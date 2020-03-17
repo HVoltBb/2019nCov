@@ -31,7 +31,7 @@ You are also welcome to suggest other data sources to aid the analysis.
 
 The code is available [here](https://github.com/HVoltBb/2019nCov/blob/master/src/).
 
-This study is currently under review in an open access journal, and a preprint is available here \[[Link](https://www.medrxiv.org/content/10.1101/2020.02.15.20023440v2)\]. To cite this study, please use:
+A preprint is available here \[[Link](https://www.medrxiv.org/content/10.1101/2020.02.15.20023440v2)\]. Currently, this study is not under review anywhere, because I am more interested in my own safety as this epidemic has spread to the state of Texas, where I am at right now. To cite this study, please use:
 
 
 Evaluating new evidence in the early dynamics of the novel coronavirus COVID-19 outbreak in Wuhan, China with real time domestic traffic and potential asymptomatic transmissions. Can Zhou. medRxiv 2020.02.15.20023440; doi: https://doi.org/10.1101/2020.02.15.20023440
