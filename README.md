@@ -1,5 +1,5 @@
-# COVD-19
-Data analysis of 2019 novel coronavirus COVD-19 outbreak in Wuhan, China
+# COVID-19
+Data analysis of 2019 novel coronavirus COVID-19 outbreak in Wuhan, China
 
 ## The logic of this study
 For those who don't have the time to read through the entire paper and figure out what is going on by themselves, here is a shorter version of the logic.
